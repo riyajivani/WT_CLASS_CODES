@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem 7\\WT\\calenders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE08634-BBB5-4BC1-A10E-44E98654881E}|calenders.csproj|d:\\sem 7\\wt\\calenders\\saturdayevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DE08634-BBB5-4BC1-A10E-44E98654881E}|calenders.csproj|solutionrelative:saturdayevent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE08634-BBB5-4BC1-A10E-44E98654881E}|calenders.csproj|d:\\sem 7\\wt\\calenders\\saturdayevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE08634-BBB5-4BC1-A10E-44E98654881E}|calenders.csproj|solutionrelative:saturdayevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "saturdayevent.aspx.cs",
+              "DocumentMoniker": "D:\\sem 7\\WT\\calenders\\saturdayevent.aspx.cs",
+              "RelativeDocumentMoniker": "saturdayevent.aspx.cs",
+              "ToolTip": "D:\\sem 7\\WT\\calenders\\saturdayevent.aspx.cs",
+              "RelativeToolTip": "saturdayevent.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCUAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:45:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saturdayevent.aspx",
+              "DocumentMoniker": "D:\\sem 7\\WT\\calenders\\saturdayevent.aspx",
+              "RelativeDocumentMoniker": "saturdayevent.aspx",
+              "ToolTip": "D:\\sem 7\\WT\\calenders\\saturdayevent.aspx",
+              "RelativeToolTip": "saturdayevent.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-12T17:30:16.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
