@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="nestedmasterpage.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        .container{
+            padding:0;
+            margin:0;
+        }
+        .header,.footer{
+            background-color:brown;
+            padding:20px;
+            text-align:center;
+            color:white;
+        }
+        .content{
+           border:2px double black;
+           margin:10px;
+           padding:20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+
+            <div class="header">
+                This is header designed in master page.
+            </div>
+
+            <div class="content">
+                  <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                  </asp:ContentPlaceHolder>
+            </div>
+
+            <div class="footer">
+                    @copyright This is footer designed in master page.
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="nestedmasterpage.NestedMasterPage1" %>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    
+    <div class="content" style="display:flex; margin:10px; padding:20px; justify-content:space-evenly; background-color:burlywood;">
+            <div class="adv" style="border:2px solid black; padding:20px; margin:10px;">
+                <div>hii from nested master page content.</div>
+            </div>
+            <div style="border:2px solid black; padding:20px; margin:10px;">
+                     <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                     </asp:ContentPlaceHolder>
+             </div>
+    </div>
+    
+</asp:Content>
