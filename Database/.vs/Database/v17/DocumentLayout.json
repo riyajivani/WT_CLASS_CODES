@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem7\\WT\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9136DEC6-34BD-4E78-9F35-C7D450E4A28D}|Database.csproj|d:\\sem7\\wt\\database\\selectdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9136DEC6-34BD-4E78-9F35-C7D450E4A28D}|Database.csproj|solutionrelative:selectdata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9136DEC6-34BD-4E78-9F35-C7D450E4A28D}|Database.csproj|d:\\sem7\\wt\\database\\selectdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9136DEC6-34BD-4E78-9F35-C7D450E4A28D}|Database.csproj|solutionrelative:selectdata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectData.aspx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\Database\\SelectData.aspx.cs",
+              "RelativeDocumentMoniker": "SelectData.aspx.cs",
+              "ToolTip": "D:\\sem7\\WT\\Database\\SelectData.aspx.cs",
+              "RelativeToolTip": "SelectData.aspx.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:14:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectData.aspx",
+              "DocumentMoniker": "D:\\sem7\\WT\\Database\\SelectData.aspx",
+              "RelativeDocumentMoniker": "SelectData.aspx",
+              "ToolTip": "D:\\sem7\\WT\\Database\\SelectData.aspx",
+              "RelativeToolTip": "SelectData.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-09T17:12:33.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

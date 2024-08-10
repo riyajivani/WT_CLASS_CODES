@@ -8,9 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div style="height: 765px">
+        <div style="height: 977px">
 
-            <asp:Calendar ID="Calendar1" runat="server" OnDayRender="Calendar1_DayRender" style="z-index: 1; left: 408px; top: 285px; position: absolute; height: 364px; width: 473px" BackColor="White" BorderColor="White" BorderWidth="1px" DayNameFormat="Full" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px" >
+            <asp:Calendar ID="Calendar1" runat="server" OnDayRender="Calendar1_DayRender" style="z-index: 1; left: 410px; top: 331px; position: absolute; height: 364px; width: 473px" BackColor="White" BorderColor="White" BorderWidth="1px" DayNameFormat="Full" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" Height="190px" NextPrevFormat="FullMonth" Width="350px" CaptionAlign="Top" FirstDayOfWeek="Sunday" SelectionMode="DayWeek" >
                 <DayHeaderStyle Font-Bold="True" Font-Size="8pt" />
                 <NextPrevStyle Font-Bold="True" Font-Size="8pt" ForeColor="#333333" VerticalAlign="Bottom" />
                 <OtherMonthDayStyle ForeColor="#999999" />
@@ -23,6 +23,9 @@
 
            
             <asp:Label ID="Label2" runat="server" BorderColor="Red" BorderStyle="Double" style="z-index: 1; left: 177px; top: 257px; position: absolute; height: 34px; width: 892px; right: 88px" Text="daynameformat = full; here so that's why it showing me full days. i can also display first char, 3 char and so on. "></asp:Label>
+
+           
+            <asp:TextBox ID="TextBox2" runat="server" style="z-index: 1; left: 42px; top: 44px; position: absolute" TextMode="Color"></asp:TextBox>
 
            
     </form>
