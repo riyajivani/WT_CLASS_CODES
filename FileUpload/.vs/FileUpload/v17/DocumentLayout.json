@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{BF1A97FF-9F83-4736-BDAD-7EF9290C7066}|FileUpload.csproj|solutionrelative:exam1_three_b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF1A97FF-9F83-4736-BDAD-7EF9290C7066}|FileUpload.csproj|d:\\sem7\\wt\\fileupload\\exam1_three_b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF1A97FF-9F83-4736-BDAD-7EF9290C7066}|FileUpload.csproj|solutionrelative:exam1_three_b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF1A97FF-9F83-4736-BDAD-7EF9290C7066}|FileUpload.csproj|D:\\sem7\\WT\\FileUpload\\Exam1_three_B.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A97FF-9F83-4736-BDAD-7EF9290C7066}|FileUpload.csproj|solutionrelative:Exam1_three_B.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,10 +32,9 @@
               "RelativeDocumentMoniker": "Exam1_three_B.aspx.cs",
               "ToolTip": "D:\\sem7\\WT\\FileUpload\\Exam1_three_B.aspx.cs",
               "RelativeToolTip": "Exam1_three_B.aspx.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAvwBcAAAAxAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:16:20.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T09:16:20.863Z"
             },
             {
               "$type": "Document",
