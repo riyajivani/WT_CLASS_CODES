@@ -20,6 +20,7 @@
             <asp:Label ID="Label2" runat="server" style="z-index: 1; left: 881px; top: 114px; position: absolute" Text="Name: "></asp:Label>
             <asp:Label ID="Label3" runat="server" style="z-index: 1; left: 884px; top: 175px; position: absolute" Text="Sem: "></asp:Label>
             <br />
+            <asp:TextBox ID="TextBox4" runat="server" style="z-index: 1; left: 980px; top: 234px; position: absolute"></asp:TextBox>
             <br />
             <asp:Button ID="Button1" runat="server" Text="Select" Height="63px" Width="132px" OnClick="Button1_Click" />
             <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" style="z-index: 1; left: 158px; top: 257px; position: absolute; height: 61px; width: 124px" Text="Count Student" />
@@ -29,7 +30,10 @@
             <asp:TextBox ID="TextBox1" runat="server" style="z-index: 1; left: 985px; top: 53px; position: absolute"></asp:TextBox>
             <asp:TextBox ID="TextBox2" runat="server" style="z-index: 1; left: 982px; top: 112px; position: absolute"></asp:TextBox>
             <asp:TextBox ID="TextBox3" runat="server" style="z-index: 1; left: 982px; position: absolute; top: 168px"></asp:TextBox>
-            <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" style="z-index: 1; left: 974px; top: 239px; position: absolute; height: 69px; width: 229px" Text="Insert data through textboxes" />
+            <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" style="z-index: 1; left: 895px; top: 403px; position: absolute; height: 69px; width: 229px" Text="Insert data through textboxes" />
+            <asp:Label ID="Label4" runat="server" style="z-index: 1; left: 876px; top: 234px; position: absolute" Text="Branch: "></asp:Label>
+            <asp:Label ID="Label5" runat="server" style="z-index: 1; left: 880px; top: 289px; position: absolute" Text="Batch: "></asp:Label>
+            <asp:TextBox ID="TextBox5" runat="server" style="z-index: 1; left: 984px; top: 294px; position: absolute"></asp:TextBox>
     </form>
 </body>
 </html>

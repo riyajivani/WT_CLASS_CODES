@@ -73,7 +73,7 @@ namespace Database
 
         protected void Button4_Click(object sender, EventArgs e)
         {
-                string q = "update student set sem=7 where id=10";
+                string q = "update student set sem=5 where id=3";
                 SqlCommand cmd = new SqlCommand(q,con);
                 con.Open();
 
@@ -90,7 +90,7 @@ namespace Database
 
         protected void Button5_Click(object sender, EventArgs e)
         {
-            string q = "delete from student where id=10";
+            string q = "delete from student where id=3";
             SqlCommand cmd = new SqlCommand(q, con);
             con.Open();
 
@@ -107,7 +107,7 @@ namespace Database
 
         protected void Button3_Click(object sender, EventArgs e)
         {
-            string q = "insert into student values(10,'Inshiya',8)";
+            string q = "insert into student values(3,'Inshiya',8,'IT','H')";
             SqlCommand cmd = new SqlCommand(q, con);
             con.Open();
 
@@ -124,7 +124,7 @@ namespace Database
 
         protected void Button6_Click(object sender, EventArgs e)
         {
-            string q = "insert into student values('"+TextBox1.Text+"','"+TextBox2.Text+"','"+TextBox3.Text+"')";
+            string q = "insert into student values('" + TextBox1.Text + "','" + TextBox2.Text + "','" + TextBox3.Text + "','" + TextBox4.Text + "','" + TextBox5.Text + "')";
             SqlCommand cmd = new SqlCommand(q, con);
             con.Open();
 
